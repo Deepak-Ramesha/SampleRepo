@@ -1,1 +1,20 @@
+name: Sample action
+
+on: [workflow_dispatch]
+
+jobs:
+  dhf-automation:
+    runs-on: [self-hosted, linux, x64, phlips]
+    defaults:
+      run:
+        shell: bash
+        
+    steps:
+      - name: Automated document generation 
+        uses: philips-internal/dhf-automation-modern-requirements-action@v1.0.2
+        env: 
+          
+   
+    
+
 
