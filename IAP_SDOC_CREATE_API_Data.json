@@ -1,0 +1,37 @@
+[
+  {
+    "MR_SDOC_NAME": "NG3 Core Services Subsystem Common OS DXR 2X Verification Requirements traceability matrix",
+    "MR_SDOC_TEMPLATE": "NG3 Core Services Subsystem Common Verification Requirements traceability matrix(MetaTemplate)",
+    "MR_SDOC_LOCATION": "/IAP-Automation",
+    "MR_CREATE_SDOCROOT_AUTO": false,
+    "ADS_QUERY_ID_CREATE_SDOC": "3a594c98-7451-4b2d-b38d-8b76ed2098a7"
+  },
+  {
+    "MR_SDOC_NAME": "D001117839-IAP Component Test Protocol Common OS - MR_Rev_C",
+    "MR_SDOC_TEMPLATE": "D001117839-IAP Component Test Protocol Common OS - MR_Rev_C_Meta_Template",
+    "MR_SDOC_LOCATION": "/IAP-Automation",
+    "MR_CREATE_SDOCROOT_AUTO": false,
+    "ADS_QUERY_ID_CREATE_SDOC": "fc59bfb9-1cae-4e9d-a443-762852bdc7c3"
+  },
+  {
+    "MR_SDOC_NAME": "SSRS IAP CoreServices_verE",
+    "MR_SDOC_TEMPLATE": "SSRS IAP CoreServices_verE_Meta_Template",
+    "MR_SDOC_LOCATION": "/IAP-Automation",
+    "MR_CREATE_SDOCROOT_AUTO": false,
+    "ADS_QUERY_ID_CREATE_SDOC": "57549f6c-51fd-417c-9777-7d5f05600f4c"
+  },
+  {
+    "MR_SDOC_NAME": "CTS_NxGen iSuite_D001119487_VerA",
+    "MR_SDOC_TEMPLATE": "CTS_NxGen_Meta_Template",
+    "MR_SDOC_LOCATION": "/IAP-Automation",
+    "MR_CREATE_SDOCROOT_AUTO": false,
+    "ADS_QUERY_ID_CREATE_SDOC": "93c74031-434c-47c1-b1a8-f523a8270a04"
+  },
+  {
+    "MR_SDOC_NAME": "D000971518-IAP Component Varification Report Common OS - CT Thor_RevA",
+    "MR_SDOC_TEMPLATE": "D000971518-IAP Component Varification Report Common OS - CT Thor_RevA_Meta",
+    "MR_SDOC_LOCATION": "/IAP-Automation",
+    "MR_CREATE_SDOCROOT_AUTO": false,
+    "ADS_QUERY_ID_CREATE_SDOC": "31d7ee7c-4525-4650-be49-ffed8aa83bde"
+  }
+]
